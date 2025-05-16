@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+bsdjsajhdijafetwfgergf
+=======
+bsdjsajhdija
+
+three
+>>>>>>> three
